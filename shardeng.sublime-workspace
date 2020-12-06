@@ -1,0 +1,439 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Logic",
+				"Logic"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/Aaron/Documents/Circuit/Assets/Control.js",
+			"settings":
+			{
+				"buffer_size": 1452,
+				"encoding": "UTF-8 with BOM",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/Aaron/Documents/Circuit/Assets/Rotate.js",
+			"settings":
+			{
+				"buffer_size": 108,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/User/shardeng.sublime-build",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 242.0,
+		"last_filter": "sslua",
+		"selected_items":
+		[
+			[
+				"sslua",
+				"Set Syntax: Lua"
+			],
+			[
+				"ssp",
+				"Set Syntax: PHP"
+			],
+			[
+				"ss",
+				"Set Syntax: Lua"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 125.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Aaron/Documents/Lua/Shard",
+		"/C/Users/Aaron/Documents/Lua/Shard/shard",
+		"/C/Users/Aaron/Documents/Lua/Shard/shard/entities",
+		"/C/Users/Aaron/Documents/Lua/Shard/shard/modules",
+		"/C/Users/Aaron/Documents/Lua/Shard/shard/plugins",
+		"/C/Users/Aaron/Documents/Lua/Shard/shard/plugins/debugui",
+		"/C/Users/Aaron/Documents/Lua/Shard/shard/shardui",
+		"/C/Users/Aaron/Documents/Lua/Shard/shard/shardui/panels",
+		"/C/Users/Aaron/Documents/Lua/Shard/shard/shardui/panels/default",
+		"/C/Users/Aaron/Documents/Lua/Shard/shard/shardui/skins",
+		"/C/Users/Aaron/Documents/Lua/Shard/shard_worlds",
+		"/C/Users/Aaron/Documents/Lua/Shard/shard_worlds/actions",
+		"/C/Users/Aaron/Documents/Lua/Shard/shard_worlds/ui"
+	],
+	"file_history":
+	[
+		"/C/Users/Aaron/Documents/Circuit/Assets/CharcterControllerTest.js",
+		"/C/Users/Aaron/Documents/Lua/Shard/shard_worlds/actions/texture_tool.lua",
+		"/C/Users/Aaron/Documents/Lua/Shard/shard_worlds/ui/alphabar.lua",
+		"/C/Users/Aaron/Documents/Lua/Shard/shard_worlds/ui/colorcube.lua",
+		"/C/Users/Aaron/Documents/Lua/Shard/shard/modules/game.lua",
+		"/C/Users/Aaron/Documents/Lua/Shard/shard/plugins/console/init.lua",
+		"/C/Users/Aaron/Documents/Lua/Shard/shard_worlds/ui/new_map.lua",
+		"/C/Users/Aaron/Documents/Lua/Shard/shard_worlds/ui/left_wall.lua",
+		"/C/Users/Aaron/Documents/Lua/Shard/shard/shardui/panels/default/scroll.lua",
+		"/C/Users/Aaron/Documents/Lua/Shard/shard/shardui/panels/default/slider.lua",
+		"/C/Users/Aaron/Documents/Lua/Shard/shard/shardui/skins/default.lua",
+		"/C/Users/Aaron/Documents/Lua/Shard/shard/class/resourcemanager.lua",
+		"/C/Users/Aaron/Documents/Lua/Shard/shard/global.lua",
+		"/C/Users/Aaron/Documents/Lua/Shard/shard/shardui/panels/default/textentry.lua",
+		"/C/Users/Aaron/Documents/Lua/Shard/shard/shardui/shard.lua",
+		"/C/Users/Aaron/Documents/Lua/Shard/shard/class/chunk.lua",
+		"/C/Users/Aaron/Documents/Leadwerks/Projects/VoxelLibrary/Scripts/voxel/voxenum.lua",
+		"/C/Users/Aaron/Documents/Leadwerks/Projects/VoxelLibrary/Scripts/voxel/voxlib.lua",
+		"/C/Users/Aaron/Documents/Leadwerks/Projects/VoxelLibrary/Scripts/voxel/class/voxelchunk.lua",
+		"/C/Users/Aaron/Documents/Leadwerks/Projects/VoxelLibrary/Scripts/App.lua",
+		"/C/Users/Aaron/Documents/Leadwerks/Projects/VoxelLibrary/Scripts/Main.lua",
+		"/C/Users/Aaron/Documents/Circuit/Assets/Rotate.js",
+		"/C/Users/Aaron/Documents/Lua/Shard/shard_worlds/ui/right_wall.lua",
+		"/C/Users/Aaron/Documents/Lua/Shard/shard/shardui/panels/default/dropdown.lua",
+		"/C/Users/Aaron/Documents/Lua/Shard/shard_worlds/ui/floor.lua",
+		"/C/Users/Aaron/Documents/Lua/Shard/shard_worlds/ui/image_canvas.lua",
+		"/C/Users/Aaron/Documents/Lua/Shard/todo.txt",
+		"/C/Users/Aaron/Documents/Lua/Shard/shard_worlds/console_commands.lua",
+		"/C/Users/Aaron/Documents/Lua/Shard/shard/main.lua",
+		"/C/Users/Aaron/Documents/Lua/Shard/shard/class/entity.lua",
+		"/C/Users/Aaron/Documents/Lua/Shard/shard_worlds/ui/texturebox.lua",
+		"/C/Users/Aaron/Documents/Lua/Shard/shard_worlds/ui/init.lua",
+		"/C/Users/Aaron/Documents/Lua/Shard/shard_worlds/actions/select_tool.lua",
+		"/C/Users/Aaron/Documents/Lua/Shard/shard_worlds/init.lua",
+		"/C/Users/Aaron/Documents/Lua/Shard/shard/modules/terrain.lua",
+		"/C/Users/Aaron/Documents/Leadwerks/Projects/VoxelLibrary/Scripts/voxel/class/voxelmap.lua",
+		"/C/Users/Aaron/Documents/Leadwerks/Projects/Circuit/Scripts/Main.lua",
+		"/C/Users/Aaron/Documents/Leadwerks/Projects/Circuit/Scripts/App.lua",
+		"/C/Users/Aaron/Documents/Circuit/Assets/CharcterControllerTest2.js",
+		"/C/Users/Aaron/Documents/Lua/ShardEngine/Client/objects/mapcanvas.lua",
+		"/C/Users/Aaron/Downloads/Main.lua",
+		"/C/Users/Aaron/Documents/BYOND/Skins/exadv1/spacestation13/skin.dme",
+		"/C/Users/Aaron/Documents/Lua/Shard/shard/shardui/panels/default/button.lua",
+		"/C/Users/Aaron/Documents/Lua/Shard/shard/shardui/panel.lua",
+		"/C/Users/Aaron/Documents/Lua/Shard/shard/entities/camera.lua",
+		"/C/Users/Aaron/AppData/Local/Temp/Rar$DIa0.479/inventory.lua",
+		"/C/Users/Aaron/AppData/Local/Temp/Rar$DIa0.331/inventoryDraw.lua",
+		"/C/Users/Aaron/AppData/Local/Temp/Rar$DIa0.574/inventoryGui.lua",
+		"/C/Users/Aaron/AppData/Local/Temp/Rar$DIa0.158/item.lua",
+		"/C/Users/Aaron/AppData/Local/Temp/Rar$DIa0.438/utils.lua",
+		"/C/Users/Aaron/AppData/Local/Temp/Rar$DIa0.553/main.lua",
+		"/C/Users/Aaron/Documents/Lua/ShardEngine/Client/engine/ieditor.lua",
+		"/C/Users/Aaron/Documents/Lua/ShardEngine/Client/gui/colorcube.lua",
+		"/C/Users/Aaron/Documents/Lua/Shard/shard/shardui/panels/default/textbutton.lua",
+		"/C/Users/Aaron/Documents/Lua/ShardEngine/Client/engine/editor.lua",
+		"/C/Users/Aaron/Documents/Lua/Shard/shard/shardui/panels/default/checkbox.lua",
+		"/C/Users/Aaron/Documents/Lua/Shard/shard/class/mapobject.lua",
+		"/C/Users/Aaron/Documents/Lua/Shard/shard_worlds/actions.lua",
+		"/C/Users/Aaron/Documents/Lua/Shard/shard_worlds/ui/ceiling.lua",
+		"/C/Users/Aaron/Documents/Lua/ShardEngine/Client/objects/panel.lua",
+		"/C/Users/Aaron/Documents/Lua/Shard/shard/biomes.lua",
+		"/C/Users/Aaron/Documents/Lua/Shard/shard/modules/simplex.lua",
+		"/C/Users/Aaron/Documents/Lua/Shard/shardnet/main.lua",
+		"/C/Users/Aaron/Documents/Leadwerks/Projects/Station47/Scripts/shardui/shard.lua",
+		"/C/Users/Aaron/Documents/Leadwerks/Projects/Station47/Scripts/shardui/skins/default.lua",
+		"/C/Users/Aaron/Documents/Lua/ShardEngine/Client/gui/texturebox.lua",
+		"/C/Users/Aaron/Documents/Lua/ShardEngine/Client/gui/scroll.lua",
+		"/C/Users/Aaron/Documents/Lua/Shard/shard/entities/test.lua",
+		"/C/Users/Aaron/Documents/Lua/Shard/shard/plugins/debugui/init.lua",
+		"/C/Users/Aaron/Documents/Lua/Shard/shard_worlds/new_map.lua",
+		"/C/Users/Aaron/Documents/Lua/Shard/shard/modules/command.lua",
+		"/C/Users/Aaron/Documents/Lua/Shard/shard/class/statemanager.lua",
+		"/C/Users/Aaron/Documents/Lua/Shard/shard/modules/keycommand.lua",
+		"/C/Users/Aaron/Documents/Lua/Shard/shard/modules/entity.lua",
+		"/C/Users/Aaron/Documents/Lua/Shard/shard/class/plugin.lua",
+		"/C/Users/Aaron/Documents/Lua/Shard/shard/class/vector.lua",
+		"/C/Users/Aaron/Documents/Lua/Shard/shard/class/color.lua",
+		"/C/Users/Aaron/Documents/Lua/Shard/shard/conf.lua",
+		"/C/Users/Aaron/Documents/Lua/Shard/shardserver/modules/network.lua",
+		"/C/Users/Aaron/Documents/Lua/Shard/shard/shardui/panels/default/frame.lua",
+		"/C/Users/Aaron/Documents/Lua/Shard/license.txt",
+		"/C/Users/Aaron/Downloads/famfamfam_silk_icons_v013/readme.txt",
+		"/C/Users/Aaron/Documents/Lua/Shard/shard/fonts/LICENSE.txt",
+		"/C/Users/Aaron/Documents/Lua/Shard/shard/class/block.lua",
+		"/C/Users/Aaron/Documents/Lua/Shard/shard/modules/class.lua",
+		"/C/Users/Aaron/Documents/Lua/Shard/shard/shardui/skins/shardblue.lua",
+		"/C/Users/Aaron/Documents/Lua/ShardEngine/Client/modules/timer.lua",
+		"/C/Users/Aaron/Documents/Lua/ShardEngine/Client/modules/collision.lua",
+		"/C/Users/Aaron/Documents/Lua/ShardEngine/Client/modules/soundtrans.lua",
+		"/C/Users/Aaron/Documents/Lua/ShardEngine/Client/modules/hook.lua",
+		"/C/Users/Aaron/Documents/Lua/ShardEngine/Client/modules/panel.lua",
+		"/C/Users/Aaron/Documents/Lua/ShardEngine/Client/modules/particle.lua",
+		"/C/Users/Aaron/Documents/Lua/ShardEngine/Client/modules/phys.lua",
+		"/C/Users/Aaron/Documents/Lua/ShardEngine/Client/objects/map.lua",
+		"/C/Users/Aaron/Documents/Lua/ShardEngine/Client/objects/block.lua",
+		"/C/Users/Aaron/Documents/Lua/ShardEngine/Client/complex.lua",
+		"/C/Users/Aaron/Documents/Lua/Shard/readme.txt",
+		"/C/Users/Aaron/Documents/Lua/Shard/shard_base/appinfo.lua",
+		"/C/Users/Aaron/Documents/Lua/Shard/changes.txt",
+		"/C/Users/Aaron/Documents/Lua/Shard/shard_worlds/ui.lua",
+		"/C/Users/Aaron/Desktop/GitHubLog.txt",
+		"/C/Users/Aaron/Documents/Lua/ShardEngine/Client/gui/slider.lua",
+		"/C/Users/Aaron/Documents/Lua/ShardEngine/Client/gui/codeviewer.lua",
+		"/C/Users/Aaron/Documents/Lua/3dtest/3d/vector.lua",
+		"/C/Users/Aaron/Downloads/light/light/init.lua",
+		"/C/Users/Aaron/Downloads/light/light/light.lua",
+		"/C/Users/Aaron/Downloads/light/main.lua",
+		"/C/Users/Aaron/Documents/Lua/Shard/shard/modules/file.lua",
+		"/C/Users/Aaron/Documents/Lua/ShardEngine/Client/global.lua",
+		"/C/Users/Aaron/Documents/Lua/ShardEngine/Client/main.lua",
+		"/C/Users/Aaron/Documents/Lua/Shard/shard/class/test.lua",
+		"/C/Users/Aaron/Documents/Lua/Shard/app/shard_worlds/test.lua",
+		"/C/Users/Aaron/Documents/Lua/Shard/app/shard_worlds/appinfo.lua",
+		"/C/Users/Aaron/Documents/Lua/Shard/shard/modules/hook.lua",
+		"/C/Users/Aaron/Documents/Lua/Shard/shard/modules/network.lua",
+		"/C/Users/Aaron/Documents/Lua/Shard/shard/modules/string.lua",
+		"/C/Users/Aaron/Documents/Lua/Shard/shard/enum.lua",
+		"/C/Users/Aaron/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/Aaron/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Aaron/Documents/Lua/Shard/app/shard_base/appinfo.lua",
+		"/C/Users/Aaron/Documents/Lua/Shard/app/shard_base/init.lua",
+		"/C/Users/Aaron/Documents/Lua/Shard/app/shard_base/plugins/test/init.lua",
+		"/C/Users/Aaron/Documents/Lua/Shard/app/shard_image/appinfo.lua",
+		"/C/Users/Aaron/Documents/Lua/Shard/app/shard_image/init.lua",
+		"/C/Users/Aaron/Documents/Lua/Shard/app/shard_image/interface.lua",
+		"/C/Users/Aaron/Documents/Lua/Shard/app/shard_worlds/init.lua",
+		"/C/Users/Aaron/Documents/Lua/Shard/shard/modules/timer.lua",
+		"/C/Users/Aaron/Documents/Lua/Shard/shardnet/class/plugin.lua"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"C:\\Users\\Aaron\\Documents\\Lua\\Shard\\",
+			"C:\\Users\\Aaron\\Documents\\Lua\\Shard\\shard\\shard"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"texture",
+			"block",
+			".base_layer.",
+			"select",
+			"CamPos",
+			"grid",
+			"1",
+			"game.FileFrame.FileList[i]",
+			"TexLPanel",
+			"Option",
+			"temp",
+			"FileFrame",
+			"container.children.layers",
+			"Button",
+			"GAME.Panels.nm_container.children.GenPanel.Label",
+			"pnl",
+			");",
+			"SetValue",
+			"ScrollDist",
+			");\n",
+			"tilesheet",
+			"20",
+			"?\n",
+			"Height",
+			"easy",
+			"Shard Software",
+			"end",
+			"PANEL_DOWN",
+			"shard",
+			"smcFunc"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"GAME.Panels.nm_container.children",
+			"Averice",
+			"shardui"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/Aaron/Documents/Circuit/Assets/Control.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1452,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								914,
+								914
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/Aaron/Documents/Circuit/Assets/Rotate.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 108,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								105,
+								105
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 25.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "shardeng.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 197.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

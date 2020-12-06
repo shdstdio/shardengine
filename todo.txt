@@ -1,0 +1,12 @@
+
+
+-- maybe think about saving maps before it gets too hectic?
+-- Entity input output support
+-- logic objects, triggers, 
+-- script entity that can run lua scripts.
+-- texture selection -- not this again...
+-- maybe that dragging thing that remembers corners?
+-- move dropdown so hovers over parent properly.. shouldn't have to but lazyness.
+-- Make propper grid.
+-- pixel drawer
+-- finish off new map thingo.
